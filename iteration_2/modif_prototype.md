@@ -12,6 +12,7 @@ Comment rendre cette fonctionnalité plus claire ?
 9. Modifier l'emplacement du bouton de suppression de compte (et ajouter un message de confirmation pour éviter suppression par inadvertance).
 10. La page d'accueil doit-elle être repenser  : pour être plus en adéquation avec les logos du menu du bas, et pour ne pas donner une impression de choix cruciale ?
 11. Le menu du bas doit être refais : prendre la suggestion de Valentin qui est super.
+12. Quand on clique sur une machine sur la carte le fait d'avoir un petit pop-up est-ce une bonne chose ? à discuter ( voir ce qu'ont dit Matis dans ses heuristiques et Haruka dans son brainstorm solo)
 
 **SUPPRESSION**
 
