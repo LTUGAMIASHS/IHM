@@ -1,6 +1,17 @@
 **Modification**
 
 1. Le bouton "signaler" doit être activement utilisé pour améliorer l'ergonomie et rendre l'application plus efficace. Cependant, il existe une contradiction car il n'y a pas d'incitation ou motivation particulière à appuyer sur "signaler".
+##### Idées de solutions
+Revoir le chemin d’accès au bouton "signaler" et,
+
+    -Afficher une pop-up de remerciement: « Merci pour votre signalement! Votre contribution améliore l'application »
+
+    -Attribuer des badges ou des titres en fonction du nombre de signalements (exemple : "Gardien de café", "Surveillant du stock")
+
+    -Envoyer une notification après traitement : « Votre signalement a été examiné et classé comme XXXX. Merci ! »
+
+
+
 2. Séparer le form de modification du profil et la vue des informations du profil.
 3. Quand on appuie sur les trois points (détail produit depuis vue machine), un popup apparaît avec les options "signaler" et "ajouter aux favoris".
 Comment rendre cette fonctionnalité plus claire ?
